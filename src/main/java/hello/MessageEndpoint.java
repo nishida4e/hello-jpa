@@ -33,9 +33,11 @@ public class MessageEndpoint {
         return messageService.findAll();
     }
     
-    
+    //insert
     //http://localhost:8080/hello-jpa/app/message/add?message=hello
     
+    //selectAll
+    //http://localhost:8080/hello-jpa/app/message/
     
     
 }
